@@ -1,10 +1,10 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ClassLibrary1;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using BikeLib;
 
-namespace ClassLibrary1.Tests
+namespace BikeUnitTests
 {
     [TestClass()]
     public class BikeTests
