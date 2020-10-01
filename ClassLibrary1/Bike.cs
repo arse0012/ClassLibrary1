@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BikeLib
+namespace ClassLibrary1
 {
     public class Bike
     {
